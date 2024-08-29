@@ -1,23 +1,24 @@
-AIML-2025-2303A51014-G.Sarayu
-Artificial Intlligance and Machine Learning Lab Instruction Sheets
-Lab 01; Introduction to Python Libraries-Numpy, Pandas, Matplotlib, and Access to Data Sources
-Lab 02; Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
-Lab 03; Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
-Lab 04; Implement Linear Regression using Boston Housing Data
-Lab 05; Introduction to Python Libraries-Numpy
-Lab 06; Introduction to Python Libraries-Numpy
-Lab 07; Introduction to Python Libraries-Numpy
-Lab 08; Introduction to Python Libraries-Numpy
-Lab 09; Introduction to Python Libraries-Numpy
-Lab 10; Introduction to Python Libraries-Numpy
-Artificial Intlligance and Machine Learning Lab Jupyter Notebooks
-Lab 01;
-Lab 02;
-Lab 03;
-Lab 04;
-Lab 05;
-Lab 06;
-Lab 07;
-Lab 08;
-Lab 09;
-Lab 10;
+# AIML-2025-2303A51014-G.Sarayu
+# Artificial Intlligance and Machine Learning Lab Instruction Sheets
+1. [Lab 01](https://github.com/2303A51014/AIML-2025/blob/main/AIML_A1 (1).pdf); Introduction to Python Libraries-Numpy, Pandas, Matplotlib, and Access to Data Sources
+2. [Lab 02](https://github.com/2303A51014/AIML-2025/blob/main/AIML_A2 (1).pdf); Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
+3. [Lab 03](https://github.com/2303A51014/AIML-2025/blob/main/AIML_A3.pdf); Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+4. [Lab 04](https://github.com/2303A51014/AIML-2025/blob/main/AIML_A4.pdf); Implement Linear Regression using Boston Housing Data
+5. [Lab 05](); Introduction to Python Libraries-Numpy
+6. [Lab 06](); Introduction to Python Libraries-Numpy
+7. [Lab 07](); Introduction to Python Libraries-Numpy
+8. [Lab 08](); Introduction to Python Libraries-Numpy
+9. [Lab 09](); Introduction to Python Libraries-Numpy
+10. [Lab 10](); Introduction to Python Libraries-Numpy
+
+# Artificial Intlligance and Machine Learning Lab Jupyter Notebooks
+1. [Lab 01](https://github.com/2303A51014/AIML-2025/blob/main/Lab01_AIML.ipynb);
+2. [Lab 02](https://github.com/2303A51014/AIML-2025/blob/main/Lab02_AIML.ipynb);
+3. [Lab 03]();
+4. [Lab 04](https://github.com/2303A51014/AIML-2025/blob/main/Lab04__AIML.ipynb);
+5. [Lab 05]();
+6. [Lab 06]();
+7. [Lab 07]();
+8. [Lab 08]();
+9. [Lab 09]();
+10. [Lab 10]();
